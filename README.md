@@ -76,7 +76,6 @@ Ela combina três dimensões importantes:
 
 ### 🧮 Fórmula
 
-```text
 growth_potential_score = 
    (0.50 * pct_pos_norm) +
    (0.30 * rating_norm) +
