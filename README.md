@@ -55,6 +55,9 @@ Ambos os datasets estão disponíveis no Kaggle.
 3. **Quais fatores influenciam a aceitação?**
    - Cruzamento por `categoria_app`, `tamanho_app_cat`, `Faixa_Preco`, `tipo`, etc.
   
+---
+
+  
 ## 📐 Métrica Principal: Growth Potential Score
 
 Para identificar os apps com maior **potencial de crescimento**, foi criada a métrica **`growth_potential_score`**.  
