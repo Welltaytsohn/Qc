@@ -56,14 +56,4 @@ Ambos os datasets estão disponíveis no Kaggle.
 
 - **Python** → pandas, numpy, matplotlib, plotly
 - **PySpark / Databricks** → queries SQL em DataFrames
-- **LangChain / PandasAI** → consultas em linguagem natural (IA)
 - **Power BI** → dashboards interativos
-
----
-
-## 🚀 Como Rodar Localmente
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/playstore-analytics.git
-   cd playstore-analytics
