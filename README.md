@@ -72,8 +72,6 @@ Ela combina três dimensões importantes:
    - Volume total de avaliações (`total_avaliacoes`).  
    - Aplicado log10 para reduzir distorção entre apps muito grandes e pequenos.
 
----
-
 ### 🧮 Fórmula
 
 growth_potential_score = 
