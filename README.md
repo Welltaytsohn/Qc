@@ -1,8 +1,3 @@
-# 📊 Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiZGM5ODEwZGQtNzViNi00Y2QzLWJiOGMtNzA0YWJjNGE3M2Q2IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9
-
-
-
 # 📱 Análise de Apps da Google Play Store
 
 Este projeto realiza uma **análise exploratória e preditiva** dos dados da Google Play Store e suas reviews, 
@@ -11,6 +6,11 @@ com foco em responder perguntas de negócio como:
 - Quais **apps ou categorias** têm maior potencial de crescimento?
 - Como está a **percepção geral dos usuários**?
 - Quais **fatores influenciam a aceitação** de um app?
+
+---
+
+## 📊 Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiZGM5ODEwZGQtNzViNi00Y2QzLWJiOGMtNzA0YWJjNGE3M2Q2IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9
 
 ---
 
